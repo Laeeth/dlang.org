@@ -125,6 +125,19 @@ $(DIVC orgs-using-d center,
             $(FA_TESTIMONIAL) $(HTTP www.infognition.com/blog/2014/why_d.html, Testimonial)
         )
     )
+
+    $(DORG Kaleidic Associates, https://github.com/kaleidicassociates, https://avatars3.githubusercontent.com/u/15332810?v=3&s=200,
+        Hedge Fund Technology Consulting,
+        $(FA_QUOTE
+            D allows us to have our cake and eat it - productivity, performance and plasticity for rapid iteration
+        )
+        $(LINK_ROW
+            $(FA_GITHUB kaleidicassociates) $(FA_SEPARATOR)            
+            $(FA_TALK https://youtu.be/xJy6ifCekCE?list=PL3jwVPmk_PRxo23yyoc0Ip_cP3-rCm7eB, DConf lightning talk) $(FA_SEPARATOR)
+            $(FA_TESTIMONIAL) $(https://dlang.org/blog/2017/05/31/project-highlight-excel-d/, Testimonial)
+        )
+    )
+
     $(DORG Putao, http://www.putao.com, putao.png,
         Science and technology for kids,
         Large scale use of D for distributed systems and cloud storage.
